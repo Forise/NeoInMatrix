@@ -400,6 +400,8 @@ MonoBehaviour:
   buildingsVectors:
   - {x: 0, y: 0, z: 5, w: 5}
   - {x: 14, y: 10, z: 17, w: 11}
+  - {x: 13, y: 11, z: 14, w: 20}
+  - {x: 16, y: 14, z: 21, w: 15}
   phones:
   - {x: 19, y: 29}
   - {x: 13, y: 4}
