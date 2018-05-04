@@ -365,6 +365,8 @@ MonoBehaviour:
   text: {fileID: 77720894}
   image: {fileID: 618467487}
   index: {x: 0, y: 0}
+  value: 0
+  isFound: 0
 --- !u!1 &894711931
 GameObject:
   m_ObjectHideFlags: 0
@@ -395,9 +397,9 @@ MonoBehaviour:
   height: 30
   width: 30
   startNeoPos: {x: 15, y: 15}
-  neo: {x: 0, y: 0}
   buildingsVectors:
   - {x: 0, y: 0, z: 5, w: 5}
+  - {x: 14, y: 10, z: 17, w: 11}
   phones:
   - {x: 19, y: 29}
   - {x: 13, y: 4}
